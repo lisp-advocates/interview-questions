@@ -1,4 +1,4 @@
-![Lisp Interviews at r/lispadvocates] (https://raw.githubusercontent.com/lisp-advocates/i/master/headers/lisp-interviews.png)
+![Lisp Interviews at r/lispadvocates](https://raw.githubusercontent.com/lisp-advocates/i/master/headers/lisp-interviews.png)
 
 # Welcome to Lisp Interviews!
 
@@ -12,8 +12,7 @@ holding our community's best knowledge on how to interview the Lisp companies
 and individuals. You can make your own voice heard by interacting with the
 issue tracker, as well as joining our community on Reddit!
 
-You can find the template for all companies under [companies/template.md]
-(companies/template.md). We'll prepare the more specialized versions for the
+You can find the template for all companies under [companies/template.md](companies/template.md). We'll prepare the more specialized versions for the
 specific companies in the same folder.
 
 Let us know which companies you are most interested in being highlighted first!
