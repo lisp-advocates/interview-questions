@@ -10,7 +10,7 @@ greater good of the ecosystem and each and every one of us!
 We take pride in giving voice to the Lisp community, and so this repository is
 holding our community's best knowledge on how to interview the Lisp companies
 and individuals. You can make your own voice heard by interacting with the
-issue tracker, as well as joining [our community on
+issue tracker, as well as [joining our community on
 Reddit](https://www.reddit.com/r/lispadvocates)!
 
 You can find the template for all companies under [companies/template.md](companies/template.md). We'll prepare the more specialized versions for the
