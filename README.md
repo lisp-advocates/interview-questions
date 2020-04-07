@@ -14,3 +14,9 @@ You can find the general template in `template.md`, as well as more specialized
 questions for the specific companies under `companies/`.
 
 Let us know which companies you are most interested to be approached first!
+
+You can find (and contribute to!) the lists of Lisp companies here:
+
+- https://common-lisp.net/lisp-companies
+
+- https://github.com/azzamsa/awesome-lisp-companies
