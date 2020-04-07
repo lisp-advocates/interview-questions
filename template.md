@@ -135,4 +135,4 @@ Which Common Lisp companies or individuals would you like to see interviewed?
 
 What is your vision for Common Lisp in your company?
 
-What is your vision for the Common Lisp and Common Lisp ecosystem in general? What are the steps are you taking to get there?
+What is your vision for the Common Lisp and Common Lisp ecosystem in general? What are the steps that you are taking to get there?
