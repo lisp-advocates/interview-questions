@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 #### What does your company do? Describe your business model to our readers!
 
@@ -11,9 +11,9 @@
 #### What was your experience with Common Lisp prior to using it in your company?
 
 
-# Development
+## Development
 
-## Ecosystem
+### Ecosystem
 
 #### What Common Lisp implementation(s) are you running and why?
 
@@ -21,7 +21,7 @@
 
 #### Which Open Source libraries has your company contributed to?
 
-## Workflow
+### Workflow
 
 #### How do you organize your development process?
 
@@ -31,7 +31,7 @@
 
 #### Which instant communication systems do you use within the company?
 
-## Deployment
+### Deployment
 
 #### What is your deployment process like?
 
@@ -41,7 +41,7 @@
 
 #### What were the key difficulties you had with deployment, not necessarily Common Lisp related?
 
-## Documentation
+### Documentation
 
 #### What is your approach to documenting your Common Lisp project?
 
@@ -51,7 +51,7 @@
 
 #### What Common Lisp books or resources could you recommend to our readers?
 
-## Difficulties
+### Difficulties
 
 #### What were the key difficulties you had to overcome in your project?
 
@@ -63,7 +63,7 @@
 
 #### Which areas of the ecosystem in general you believe could use more collective love from the Lisp community?
 
-## Bonus questions
+### Bonus questions
 
 #### Are you using or have you considered Scheme or Clojure or any other lisps? Why or why not?
 
@@ -74,9 +74,9 @@
 #### Does your team use Common Lisp for personal projects? What are the personal projects you would like to highlight?
 
 
-# Developers
+## Developers
 
-## Staff
+### Staff
 
 #### How many Common Lisp programmers does your company employ?
 
@@ -88,7 +88,7 @@
 
 #### What benefits do you offer to your Common Lisp programmers besides the overwhelming pleasure of using Common Lisp professionally?
 
-## Recruiting
+### Recruiting
 
 #### How would you describe your experience with Common Lisp recruiting?
 
@@ -98,7 +98,7 @@
 
 #### Do you offer paid or unpaid intern positions for Common Lisp programmers?
 
-## Remote Work
+### Remote Work
 
 #### Does you company support remote positions for Common Lisp programmers?
 
@@ -106,7 +106,7 @@
 
 #### What do you think would be the first / most efficient steps to have more Remote Work available in the ecosystem?
 
-## Conferences
+### Conferences
 
 #### Has your company organized any conferences, events or workshops?
 
@@ -116,7 +116,7 @@
 
 #### What in your opinion are the most credible or prominent developer conferences within or outside the Lisp world?
 
-## Content
+### Content
 
 #### Where do you get your Common Lisp news from? Which platforms do you or your team use the most?
 
@@ -124,14 +124,14 @@
 
 #### Do you host your own content? Do you use Common Lisp to host your content or website? What is your web stack?
 
-## Networking
+### Networking
 
 #### Do you work with any other Common Lisp companies? Which Common Lisp companies would you like to work with?
 
 #### Which Common Lisp companies or individuals would you like to see interviewed?
 
 
-# Future
+## Future
 
 #### What is your vision for Common Lisp in your company?
 
