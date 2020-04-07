@@ -126,6 +126,12 @@ Describe your business model to our readers!
 
 #### Do you host your own content? Do you use Common Lisp to host your content or website? What is your web stack?
 
+## Networking
+
+#### Do you work with any other Common Lisp companies? Which Common Lisp companies would you like to work with?
+
+#### Which Common Lisp companies or individuals would you like to see interviewed?
+
 
 # Future
 
