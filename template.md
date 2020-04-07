@@ -1,8 +1,6 @@
 # Introduction
 
-#### What does your company do?
-
-Describe your business model to our readers!
+#### What does your company do? Describe your business model to our readers!
 
 #### How long have you been in business for?
 
