@@ -88,10 +88,10 @@ JavaScript at Grammarly?
   students' essays for plagiarism to becoming the first Ukrainian unicorn
   company?
 
-- What were the key difficulties related to Common Lisp? The 2015 highlights
-  some peculiar issues with GC, macro expansions, and the network stack you
-  have encountered with SBCL. Have there been more curious stories you can
-  share?
+- What were the key difficulties related to Common Lisp? The 2015 article
+  highlights some peculiar issues with GC, macro expansions, and the network
+  stack you have encountered with SBCL. Have there been more curious stories
+  you can share?
 
 - Which Open Source libraries have you had limited success with? What would
   need to be changed?
