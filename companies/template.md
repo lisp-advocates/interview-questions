@@ -104,7 +104,7 @@
 
 - What were the key difficulties you've encountered with remote Common Lisp positions / What has prevented you from offering remote positions?
 
-- What do you think would be the first / most efficient steps to have more Remote Work available in the ecosystem?
+- What do you think would be the first / most efficient steps to have more Remote Work available in the Common Lisp ecosystem?
 
 ### Conferences
 
