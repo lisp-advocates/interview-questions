@@ -23,9 +23,8 @@
 
 ### Workflow
 
-- How do you organize your development process?
-
-- Do you subscribe to any of the workflow management methods?
+- How do you organize your development process? Do you subscribe to any of the
+  workflow management methods?
 
 - How do you distribute information between the developers in your company?
 
@@ -56,6 +55,8 @@
 - What were the key difficulties you had to overcome in your project?
 
 - What were the key difficulties related to Common Lisp?
+
+- What do you miss from other languages in Common Lisp?
 
 - Which Open Source libraries have you had limited success with? What would need to be changed?
 
@@ -92,7 +93,10 @@
 
 - How would you describe your experience with Common Lisp recruiting?
 
-- What is your onboarding process for the new developers?
+- What is your onboarding process for the new developers? There is a known
+  criticism that a lisp codebase evolves into it's own DSL, which can make it
+  harder for the new developers to understand the code. Do you have experience
+  on that?
 
 - Do you recruit developers who have experience with programming but not with Common Lisp? How do you get them up to speed?
 
