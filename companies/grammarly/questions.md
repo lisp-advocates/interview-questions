@@ -26,8 +26,12 @@ as a foundation for its core grammar engine.
 - Have you considered switching to commercial Lisp implementations such as
   LispWorks or Allegro?
 
-- Which Open Source libraries are important to your project? Which Open Source
-  libraries has Grammarly contributed to?
+- Tell us more about Grammarly's Open Source libraries! Our readers can find a
+  number of opensourced Common Lisp projects at [https://github.com/GrammaTech](https://github.com/GrammaTech).
+  In particular, it would be exciting for us to learn how do you use the [https://github.com/GrammaTech/sel](Software Evolution Library) internally!
+
+- Which other Open Source libraries are important to your project? Which Open
+  Source libraries has Grammarly contributed to?
 
 - How did Grammarly choose to invest in Common Lisp specifically? Was your
   founders' previous business, My Dropbox (an application for checking students
@@ -72,14 +76,19 @@ JavaScript at Grammarly?
 ### Documentation
 
 - What is your approach to documenting your project, as well as specifically
-  the Common Lisp part?
+  the Common Lisp part? Our readers can find an example of Grammarly's
+  documentation for [Software Evolution Library](https://grammatech.github.io/sel/).
+  Looks really good!
 
 - Which open documentation resources do you use the most in your development?
 
 - Which areas of the Common Lisp ecosystem could in your opinion use better
   documentation?
 
-- What Common Lisp books or resources could you recommend to our readers?
+- What Common Lisp books or resources could you recommend to our readers? For
+  reference of our readers, here's a curious [Getting Started with Lisp](https://grammatech.github.io/sel/Getting-Started-with-Lisp.html)
+  doc page, as well as more under [Additional Lisp Resources](https://grammatech.github.io/sel/Additional-Lisp-Resources.html), both
+  from [Software Evolution Library docs](https://grammatech.github.io/sel/), of all places!
 
 ### Difficulties
 
